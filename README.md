@@ -2,8 +2,8 @@
 Matherials for conference
 
 ### Links
-1. https://galtashma.com/posts/how-fuzzing-with-qemu-and-afl-work
-2. https://airbus-seclab.github.io/AFLplusplus-blogpost/
+1. https://galtashma.com/posts/how-fuzzing-with-qemu-and-afl-work - Как Работает Фаззинг С Помощью QEMU (И AFL)
+2. https://airbus-seclab.github.io/AFLplusplus-blogpost/ - Расширенный двоичный фаззинг с использованием AFL++-QEMU и libprotobuf: практический пример постоянного фаззинга в памяти с учетом грамматики
 3. https://blog.attify.com/fuzzing-iot-binaries-with-afl-part-ii/
 4. https://securelist.ru/dynamic-analysis-of-firmware-components-in-iot-devices/105598/
 5. https://github.com/alexplaskett/QNXSecurity
